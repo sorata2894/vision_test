@@ -1,0 +1,15 @@
+# Hashes of file build rules.
+4755fb25f7bc5bb4de3ff177e1915125 C:/test_ros/devel/include/hello/vision.h
+a6beb356adcb74f6e9232cf713bb2ac3 C:/test_ros/devel/lib/site-packages/hello/msg/__init__.py
+e758c54fe4a0970cabc57c7a2f8734eb C:/test_ros/devel/lib/site-packages/hello/msg/_vision.py
+58edb76127c130fd0e223ec20f4cf10c C:/test_ros/devel/share/common-lisp/ros/hello/msg/vision.lisp
+4cc6b34e080f21a4ea341aba52f33567 C:/test_ros/devel/share/gennodejs/ros/hello/msg/vision.js
+2b44706306a3c4edb995f61e749d62da C:/test_ros/devel/share/roseus/ros/hello/manifest.l
+c171802f3769766c1e6934fefb7f3590 C:/test_ros/devel/share/roseus/ros/hello/msg/vision.l
+3cedfcbd0573a2fef9054db384d9489c CMakeFiles/clean_test_results
+08decf0e316dca4efca03088f786e6bb hello/CMakeFiles/_hello_generate_messages_check_deps_vision
+668547b0c84c16675cf47feb9113f0d8 hello/CMakeFiles/hello_generate_messages_cpp
+668547b0c84c16675cf47feb9113f0d8 hello/CMakeFiles/hello_generate_messages_eus
+668547b0c84c16675cf47feb9113f0d8 hello/CMakeFiles/hello_generate_messages_lisp
+668547b0c84c16675cf47feb9113f0d8 hello/CMakeFiles/hello_generate_messages_nodejs
+668547b0c84c16675cf47feb9113f0d8 hello/CMakeFiles/hello_generate_messages_py

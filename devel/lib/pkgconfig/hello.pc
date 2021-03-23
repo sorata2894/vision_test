@@ -1,0 +1,8 @@
+prefix=C:/test_ros/devel
+
+Name: hello
+Description: Description of hello
+Version: 0.0.0
+Cflags: -IC:/test_ros/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

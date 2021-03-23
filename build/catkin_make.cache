@@ -1,0 +1,2 @@
+hello
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=C:\test_ros\devel -DCMAKE_INSTALL_PREFIX=C:\test_ros\install -G NMake Makefiles
